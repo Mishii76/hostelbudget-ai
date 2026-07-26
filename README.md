@@ -20,6 +20,18 @@ Students handle highly constrained monthly allowances and struggle to find a bal
 * **F-8 Sector Localization:** Recommends targeted, hyper-local budget adjustments referencing well-known student food hubs around F-8 Markaz, F-7, and G-9 sectors.
 
 ---
+---
+
+## 📸 Application Screenshots
+
+### 1. Main Dashboard & Budget Calculator
+[Drag & drop your 1st screenshot file here]
+
+### 2. AI Financial & Mess Optimization Output
+[Drag & drop your 2nd screenshot file here]
+
+### 3. Live Application in Action
+[Drag & drop your 3rd screenshot file here]
 
 ## 🧠 The AI Feature & Core System Prompt
 The core feature of this platform leverages an LLM framework configured with defensive local fallback routing to maintain zero downtime even if production edge secrets are missing. 
