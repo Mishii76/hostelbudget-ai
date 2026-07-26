@@ -25,13 +25,18 @@ Students handle highly constrained monthly allowances and struggle to find a bal
 ## 📸 Application Screenshots
 
 ### 1. Main Dashboard & Budget Calculator
-[Drag & drop your 1st screenshot file here]
+<img width="717" height="885" alt="image" src="https://github.com/user-attachments/assets/a08a4632-18a4-4f6a-85b5-9627dac8f49d" />
+
 
 ### 2. AI Financial & Mess Optimization Output
-[Drag & drop your 2nd screenshot file here]
+<img width="1053" height="665" alt="image" src="https://github.com/user-attachments/assets/f3812dc6-c5f8-4cc0-bb10-819d4e245bdd" />
+<img width="500" height="165" alt="image" src="https://github.com/user-attachments/assets/d56c5507-feb6-4d6a-b919-92c7a20a26fb" />
+
+
 
 ### 3. Live Application in Action
-[Drag & drop your 3rd screenshot file here]
+<img width="711" height="890" alt="image" src="https://github.com/user-attachments/assets/d117c5ba-93ff-4257-b73c-214295f08916" />
+
 
 ## 🧠 The AI Feature & Core System Prompt
 The core feature of this platform leverages an LLM framework configured with defensive local fallback routing to maintain zero downtime even if production edge secrets are missing. 
